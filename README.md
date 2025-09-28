@@ -1,1 +1,2 @@
-# osjur
+# OSJUR JURUSAN
+## ANJAYY
